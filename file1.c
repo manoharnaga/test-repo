@@ -10,6 +10,7 @@ int main(){
     printf("\n");
     printf("Hello new repo about to be made \n");
     printf("Get read folks!\n");
+    //Hey I have made a change here now you have to add and commit again:
     
     return 0;
 }
