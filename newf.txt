@@ -1,1 +1,2 @@
 New feature only visible in dev branch
+Now it is merged to master so visible there as well
